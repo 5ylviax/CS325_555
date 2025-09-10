@@ -1,5 +1,5 @@
-i = 7
-j = 10
+i = 17
+j = 100
 
 print(i + j)
 print("hello siue")
