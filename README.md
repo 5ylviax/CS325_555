@@ -1,2 +1,13 @@
-# CS325_555
-learning how to use git
+# This is a README file 
+## Some Python code 
+
+```python
+# py.py
+print("Hello, world")
+```
+python3 py.py
+
+
+
+
+
